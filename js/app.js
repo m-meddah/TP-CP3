@@ -1,6 +1,6 @@
 
 var app = {
-    gridSize: 5,
+    gridSize: 10,
     pixelSize: 30,
     colorsList: ['black', 'grey', 'orange', 'green'],
     currentColor: 'black',
